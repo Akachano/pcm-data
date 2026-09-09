@@ -1,5 +1,5 @@
 var PCM_ENGINE = {
-  version: "3.14",
+  version: "3.15",
   lastUpdate: "09.09.2026",
   data: [
   {
@@ -355,7 +355,7 @@ var PCM_ENGINE = {
             "rkppType": "мокрый"
           },
           {
-            "name": "JetTour Dashing 1.5",
+            "name": "JetTour Dashing",
             "vol": "1.5L",
             "mkpp": 0,
             "rkpp": 0,
