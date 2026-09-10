@@ -1,12 +1,12 @@
 var PCM_GEARBOX = {
-  version: "3.24",
+  version: "3.25",
   lastUpdate: "10.09.2026",
   data: [
   {
     "category": "Вариаторы (CVT) - ВАРИАТОРЫ через диагностический разъем:",
     "items": [
       {
-        "path": "China| India ——— China Gearbox ——— China: Chery Tiggo8 CVT25 (EAST80.13/SPC563M) ",
+        "path": "China| India ——— China Gearbox ——— China: Chery Tiggo8 CVT25 (EAST80.13/SPC563M)  - (ВАРИАТОРЫ через диагностический разъем)",
         "volume": "CVT",
         "model": "CVT25",
         "power": "-",
@@ -67,7 +67,7 @@ var PCM_GEARBOX = {
     "category": "Роботы 1.5 (через разъём)",
     "items": [
       {
-        "path": "China| India ——— China Gearbox ——— CHERY 6DCT (DKG250 GEN2)",
+        "path": "China| India ——— China Gearbox ——— CHERY 6DCT (DKG250 GEN2) - (через разъём)",
         "volume": "1.5T",
         "model": "DCT250",
         "power": "-",
@@ -98,7 +98,7 @@ var PCM_GEARBOX = {
     "category": "Роботы 1.6 (через колесо/фильтр)",
     "items": [
       {
-        "path": "China| India ——— BOSH SH725xx TCU Bootloader ——— BOSH SH725xx TCU (FLASH)",
+        "path": "China| India ——— BOSH SH725xx TCU Bootloader ——— BOSH SH725xx TCU (FLASH) - (через колесо/фильтр)",
         "volume": "1.6T",
         "model": "SH725xx",
         "power": "-",
@@ -246,7 +246,7 @@ var PCM_GEARBOX = {
     "category": "Роботы 1.6 (через диагностический разъём)",
     "items": [
       {
-        "path": "China| India ——— China Gearbox ——— Jetour DF727 (ATDG-81-9.4)",
+        "path": "China| India ——— China Gearbox ——— Jetour DF727 (ATDG-81-9.4) - (через диагностический разъём)",
         "volume": "1.6T",
         "model": "DF727",
         "power": "-",
@@ -277,7 +277,7 @@ var PCM_GEARBOX = {
     "category": "Роботы 2.0 (через диагностический разъём)",
     "items": [
       {
-        "path": "China| India ——— China Gearbox ——— CHERY/EXEED VX8AT 2023MY",
+        "path": "China| India ——— China Gearbox ——— CHERY/EXEED VX8AT 2023MY - (через диагностический разъём)",
         "volume": "2.0T",
         "model": "VX8AT",
         "power": "-",
