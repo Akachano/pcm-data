@@ -1,12 +1,12 @@
 var PCM_GEARBOX = {
-  version: "3.23",
+  version: "3.24",
   lastUpdate: "10.09.2026",
   data: [
   {
-    "category": "Вариаторы (CVT)",
+    "category": "Вариаторы (CVT) - ВАРИАТОРЫ через диагностический разъем:",
     "items": [
       {
-        "path": "China| India ——— China Gearbox ——— China: Chery Tiggo8 CVT25 (EAST80.13/SPC563M)",
+        "path": "China| India ——— China Gearbox ——— China: Chery Tiggo8 CVT25 (EAST80.13/SPC563M) ",
         "volume": "CVT",
         "model": "CVT25",
         "power": "-",
@@ -95,7 +95,7 @@ var PCM_GEARBOX = {
     ]
   },
   {
-    "category": "Роботы 1.6 (через колесо/bootloader)",
+    "category": "Роботы 1.6 (через колесо/фильтр)",
     "items": [
       {
         "path": "China| India ——— BOSH SH725xx TCU Bootloader ——— BOSH SH725xx TCU (FLASH)",
