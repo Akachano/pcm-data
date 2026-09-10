@@ -1,5 +1,5 @@
 var PCM_ENGINE = {
-  version: "3.24",
+  version: "3.25",
   lastUpdate: "10.09.2026",
   data: [
   {
