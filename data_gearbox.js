@@ -1,5 +1,5 @@
 var PCM_GEARBOX = {
-  version: "3.22",
+  version: "3.23",
   lastUpdate: "10.09.2026",
   data: [
   {
@@ -69,7 +69,7 @@ var PCM_GEARBOX = {
       {
         "path": "China| India ——— China Gearbox ——— CHERY 6DCT (DKG250 GEN2)",
         "volume": "1.5T",
-        "model": "DKG250",
+        "model": "DCT250",
         "power": "-",
         "cars": [
           {
