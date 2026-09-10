@@ -1,5 +1,5 @@
 var PCM_NOTES = {
-  version: "3.23",
+  version: "3.24",
   lastUpdate: "10.09.2026",
   notes: [
   {
