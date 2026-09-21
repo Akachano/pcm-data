@@ -1,6 +1,6 @@
 var PCM_ENGINE = {
-  version: "3.25",
-  lastUpdate: "10.09.2026",
+  version: "3.26",
+  lastUpdate: "21.09.2026",
   data: [
   {
     "category": "China ME17/MED17",
@@ -67,7 +67,7 @@ var PCM_ENGINE = {
           },
           {
             "name": "Omoda C5",
-            "vol": "1.5T (17)",
+            "vol": "1.5T (147)",
             "mkpp": 0,
             "rkpp": 0,
             "akpp": 0,
@@ -156,7 +156,7 @@ var PCM_ENGINE = {
           },
           {
             "name": "Chery Tiggo 8Pro",
-            "vol": "1.6T (150)",
+            "vol": "1.6T (186)",
             "mkpp": 0,
             "rkpp": 1,
             "akpp": 0,
@@ -165,7 +165,7 @@ var PCM_ENGINE = {
           },
           {
             "name": "Chery Tiggo 8ProMaxNew 1.6",
-            "vol": "1.6T (150)",
+            "vol": "1.6T (186)",
             "mkpp": 0,
             "rkpp": 1,
             "akpp": 0,
@@ -183,7 +183,7 @@ var PCM_ENGINE = {
           },
           {
             "name": "Exeed TXL 1.6 (все поколения)",
-            "vol": "1.6T (150)",
+            "vol": "1.6T (186)",
             "mkpp": 0,
             "rkpp": 1,
             "akpp": 0,
@@ -210,7 +210,7 @@ var PCM_ENGINE = {
           },
           {
             "name": "JetTour Dashing 1.6",
-            "vol": "1.6T (150)",
+            "vol": "1.6T (147)",
             "mkpp": 0,
             "rkpp": 1,
             "akpp": 0,
@@ -303,7 +303,7 @@ var PCM_ENGINE = {
           },
           {
             "name": "Exeed RX",
-            "vol": "2.0T (197)",
+            "vol": "2.0T (197/249)",
             "mkpp": 0,
             "rkpp": 1,
             "akpp": 0,
@@ -338,22 +338,13 @@ var PCM_ENGINE = {
             "rkppType": "мокрый"
           },
           {
-            "name": "Jetour X70",
-            "vol": "2.0T (254)",
-            "mkpp": 0,
-            "rkpp": 0,
-            "akpp": 0,
-            "cvt": 0,
-            "rkppType": "мокрый"
-          },
-          {
             "name": "Exeed TXL (все поколения)",
             "vol": "2.0T (197)",
             "mkpp": 0,
-            "rkpp": 1,
-            "akpp": 0,
+            "rkpp": 0,
+            "akpp": 1,
             "cvt": 0,
-            "rkppType": "мокрый"
+            "rkppType": ""
           },
           {
             "name": "Exeed RX",
