@@ -1,6 +1,6 @@
 var PCM_ENGINE = {
-  version: "3.26",
-  lastUpdate: "21.09.2026",
+  version: "3.27",
+  lastUpdate: "03.10.2026",
   data: [
   {
     "category": "China ME17/MED17",
