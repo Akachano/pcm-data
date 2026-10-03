@@ -1,6 +1,6 @@
 var PCM_GEARBOX = {
-  version: "3.26",
-  lastUpdate: "21.09.2026",
+  version: "3.27",
+  lastUpdate: "03.10.2026",
   data: [
   {
     "category": "Вариаторы (CVT) - ВАРИАТОРЫ через диагностический разъем:",
@@ -98,7 +98,7 @@ var PCM_GEARBOX = {
     "category": "Роботы 1.6 (через колесо/фильтр)",
     "items": [
       {
-        "path": "China| India ——— BOSH SH725xx TCU Bootloader ——— BOSH SH725xx TCU (FLASH) - (через колесо/фильтр)",
+        "path": "BOSH SH725xx TCU Bootloader ——— BOSH SH725xx TCU (FLASH) - (через колесо/фильтр)",
         "volume": "1.6T",
         "model": "SH725xx",
         "power": "-",
@@ -294,7 +294,7 @@ var PCM_GEARBOX = {
         ]
       },
       {
-        "path": "China| India ——— China Gearbox ——— CHERY/EXEED 7DCT380 (ATDG-81-9.7)",
+        "path": "China| India ——— China Gearbox ——— CHERY/EXEED 7DCT380 (ATDG-81-9.7) - (через диагностический разъём)",
         "volume": "2.0T",
         "model": "7DCT380",
         "power": "-",
