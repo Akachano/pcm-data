@@ -1,6 +1,6 @@
 var PCM_NOTES = {
-  version: "3.27",
-  lastUpdate: "03.10.2026",
+  version: "3.28",
+  lastUpdate: "18.10.2026",
   notes: [
   {
     "id": "cvt_rules",
