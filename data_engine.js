@@ -1,6 +1,6 @@
 var PCM_ENGINE = {
-  version: "3.27",
-  lastUpdate: "03.10.2026",
+  version: "3.28",
+  lastUpdate: "18.10.2026",
   data: [
   {
     "category": "China ME17/MED17",
@@ -233,6 +233,15 @@ var PCM_ENGINE = {
             "akpp": 0,
             "cvt": 0,
             "rkppType": "мокрый"
+          },
+          {
+            "name": "Tenet A8",
+            "vol": "1.6T (150)",
+            "mkpp": 0,
+            "rkpp": 1,
+            "akpp": 0,
+            "cvt": 0,
+            "rkppType": "мокрый"
           }
         ]
       }
@@ -349,6 +358,24 @@ var PCM_ENGINE = {
           {
             "name": "Exeed RX",
             "vol": "2.0T (249)",
+            "mkpp": 0,
+            "rkpp": 0,
+            "akpp": 1,
+            "cvt": 0,
+            "rkppType": ""
+          },
+          {
+            "name": "Tenet T9",
+            "vol": "2.0 (245)",
+            "mkpp": 0,
+            "rkpp": 0,
+            "akpp": 1,
+            "cvt": 0,
+            "rkppType": ""
+          },
+          {
+            "name": "Tenet A8",
+            "vol": "2.0 (197)",
             "mkpp": 0,
             "rkpp": 0,
             "akpp": 1,
