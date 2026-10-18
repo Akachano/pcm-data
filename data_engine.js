@@ -1,5 +1,5 @@
 var PCM_ENGINE = {
-  version: "3.28",
+  version: "3.29",
   lastUpdate: "18.10.2026",
   data: [
   {
@@ -223,11 +223,11 @@ var PCM_ENGINE = {
         "path": "China| India ——— China ME17/MED17 ——— China: Jetour 1.6T F4J16 (MED 17.8.10)",
         "volume": "1.6T",
         "model": "F4J16",
-        "power": "190 л.с.",
+        "power": "190 / 150 л.с.",
         "cars": [
           {
             "name": "Jetour x70plus",
-            "vol": "1.6T (190)",
+            "vol": "1.6 (190)",
             "mkpp": 0,
             "rkpp": 1,
             "akpp": 0,
@@ -236,7 +236,7 @@ var PCM_ENGINE = {
           },
           {
             "name": "Tenet A8",
-            "vol": "1.6T (150)",
+            "vol": "1.6 (150)",
             "mkpp": 0,
             "rkpp": 1,
             "akpp": 0,
@@ -381,6 +381,24 @@ var PCM_ENGINE = {
             "akpp": 1,
             "cvt": 0,
             "rkppType": ""
+          },
+          {
+            "name": "Tenet T8",
+            "vol": "1.6 (186)",
+            "mkpp": 0,
+            "rkpp": 1,
+            "akpp": 0,
+            "cvt": 0,
+            "rkppType": "мокрый"
+          },
+          {
+            "name": "Tenet A8",
+            "vol": "1.6 (150)",
+            "mkpp": 0,
+            "rkpp": 1,
+            "akpp": 0,
+            "cvt": 0,
+            "rkppType": "мокрый"
           }
         ]
       },
