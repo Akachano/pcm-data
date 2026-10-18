@@ -1,6 +1,6 @@
 var PCM_GEARBOX = {
-  version: "3.27",
-  lastUpdate: "03.10.2026",
+  version: "3.28",
+  lastUpdate: "18.10.2026",
   data: [
   {
     "category": "Вариаторы (CVT) - ВАРИАТОРЫ через диагностический разъем:",
