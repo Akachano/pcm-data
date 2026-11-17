@@ -1,6 +1,6 @@
 var PCM_ENGINE = {
-  version: "3.29",
-  lastUpdate: "18.10.2026",
+  version: "3.30",
+  lastUpdate: "17.11.2026",
   data: [
   {
     "category": "China ME17/MED17",
@@ -12,7 +12,7 @@ var PCM_ENGINE = {
         "power": "118 / 147 / 170 / 186 л.с.",
         "cars": [
           {
-            "name": "Chery Tiggo 7Pro",
+            "name": "Chery Tiggo 7 Pro",
             "vol": "1.5T (147)",
             "mkpp": 0,
             "rkpp": 0,
@@ -21,7 +21,7 @@ var PCM_ENGINE = {
             "rkppType": "мокрый"
           },
           {
-            "name": "Chery Tiggo 7ProMax",
+            "name": "Chery Tiggo 7 Pro Max",
             "vol": "1.5T (147)",
             "mkpp": 0,
             "rkpp": 0,
@@ -39,7 +39,7 @@ var PCM_ENGINE = {
             "rkppType": ""
           },
           {
-            "name": "Chery Tiggo 4Pro",
+            "name": "Chery Tiggo 4 Pro",
             "vol": "1.5T (147)",
             "mkpp": 0,
             "rkpp": 0,
@@ -128,7 +128,7 @@ var PCM_ENGINE = {
         "power": "150 л.с.",
         "cars": [
           {
-            "name": "Chery Tiggo 7ProMax",
+            "name": "Chery Tiggo 7 Pro Max",
             "vol": "1.6T (150)",
             "mkpp": 0,
             "rkpp": 1,
@@ -155,7 +155,7 @@ var PCM_ENGINE = {
             "rkppType": "мокрый"
           },
           {
-            "name": "Chery Tiggo 8Pro",
+            "name": "Chery Tiggo 8 Pro",
             "vol": "1.6T (186)",
             "mkpp": 0,
             "rkpp": 1,
@@ -164,7 +164,7 @@ var PCM_ENGINE = {
             "rkppType": "мокрый"
           },
           {
-            "name": "Chery Tiggo 8ProMaxNew 1.6",
+            "name": "Chery Tiggo 8 Pro MaxNew 1.6",
             "vol": "1.6T (186)",
             "mkpp": 0,
             "rkpp": 1,
@@ -226,7 +226,7 @@ var PCM_ENGINE = {
         "power": "190 / 150 л.с.",
         "cars": [
           {
-            "name": "Jetour x70plus",
+            "name": "Jetour x 70 plus",
             "vol": "1.6 (190)",
             "mkpp": 0,
             "rkpp": 1,
@@ -257,7 +257,7 @@ var PCM_ENGINE = {
         "power": "150 / 186 / 197 / 245 / 275/ 249 / 250 л.с.",
         "cars": [
           {
-            "name": "Chery Arrizo8",
+            "name": "Chery Arrizo 8",
             "vol": "1.6T (186)",
             "mkpp": 0,
             "rkpp": 1,
@@ -266,7 +266,7 @@ var PCM_ENGINE = {
             "rkppType": "мокрый"
           },
           {
-            "name": "Chery Tiggo 8ProMax",
+            "name": "Chery Tiggo 8 Pro Max",
             "vol": "2.0T (197)",
             "mkpp": 0,
             "rkpp": 1,
@@ -427,7 +427,7 @@ var PCM_ENGINE = {
             "rkppType": "мокрый"
           },
           {
-            "name": "JetTour Dashing",
+            "name": "JeTour Dashing",
             "vol": "1.5L",
             "mkpp": 0,
             "rkpp": 0,
