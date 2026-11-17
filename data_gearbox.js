@@ -1,6 +1,6 @@
 var PCM_GEARBOX = {
-  version: "3.29",
-  lastUpdate: "18.10.2026",
+  version: "3.30",
+  lastUpdate: "17.11.2026",
   data: [
   {
     "category": "Вариаторы (CVT) - ВАРИАТОРЫ через диагностический разъем:",
@@ -12,7 +12,7 @@ var PCM_GEARBOX = {
         "power": "-",
         "cars": [
           {
-            "name": "Chery Tiggo 4pro",
+            "name": "Chery Tiggo 4 pro",
             "vol": "CVT",
             "mkpp": 0,
             "rkpp": 0,
@@ -20,7 +20,7 @@ var PCM_GEARBOX = {
             "cvt": 1
           },
           {
-            "name": "Chery Tiggo 7Pro",
+            "name": "Chery Tiggo 7 Pro",
             "vol": "CVT",
             "mkpp": 0,
             "rkpp": 0,
@@ -28,7 +28,7 @@ var PCM_GEARBOX = {
             "cvt": 1
           },
           {
-            "name": "Chery Tiggo 7ProMax",
+            "name": "Chery Tiggo 7 Pro Max",
             "vol": "CVT",
             "mkpp": 0,
             "rkpp": 0,
